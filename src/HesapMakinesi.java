@@ -1,8 +1,3 @@
-# Hesap-Makinesi-Programi
-Java Hesap Makinesi Programi
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
